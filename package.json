@@ -1,0 +1,23 @@
+{
+  "name": "zadanie25-4",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "server": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/danielmark0116/zadanie25-4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/danielmark0116/zadanie25-4/issues"
+  },
+  "homepage": "https://github.com/danielmark0116/zadanie25-4#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
