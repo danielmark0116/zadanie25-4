@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/danielmark0116/zadanie25-4#readme",
   "dependencies": {
-    "express": "^4.17.1"
+    "express": "^4.17.3"
   }
 }
